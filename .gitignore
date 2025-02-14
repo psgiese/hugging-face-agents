@@ -1,0 +1,13 @@
+*.egg-info/
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+uv.lock
+
+.env
+.venv
+venv/
