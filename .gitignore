@@ -11,3 +11,7 @@ uv.lock
 .env
 .venv
 venv/
+
+#models
+opus-mt-en-id/
+
