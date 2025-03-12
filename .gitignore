@@ -15,3 +15,7 @@ venv/
 #models
 opus-mt-en-id/
 
+*.txt
+
+alfred_chroma_db/
+
